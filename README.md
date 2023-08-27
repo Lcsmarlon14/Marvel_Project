@@ -49,16 +49,11 @@ Enjoy the exclusive Marvel-related content available to logged-in users.
 
 To get a local copy of this project up and running on your machine, follow these steps:
 
-Clone the repository:
- 
-use the Command: 
+#### Clone the repository:
+
     git clone <https://github.com/Lcsmarlon14/Marvel_Project>
 
-### Navigate to the project directory: 
-
-    cd <Marvel_project>
-
-Open the index.html file in a web browser to view the web page.
+Open the folder where you saved it, and find the files.  Find the index.html file in a web browser to view the web page.
 
 ### :open_book: Learn More 
 
